@@ -333,18 +333,6 @@ allowWGCNAThreads(nThreads = 4)
   - `Final_MIIC_RA_MegaCohort_edgesList.miic.summary.txt`
   - `Final_MIIC_HC_Input_edgesList.miic.summary.txt`
 
----
-
-## 📧 Contact
-
-**Author**: [Your Name]  
-**Email**: your.email@example.com  
-**Institution**: M2 ST4Health - ML for Biological Networks  
-
-**Project Link**: [https://github.com/yourusername/ra-network-analysis](https://github.com/yourusername/ra-network-analysis)
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
